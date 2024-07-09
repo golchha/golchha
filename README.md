@@ -15,7 +15,7 @@
     - Building and deploying machine learning models
 - 📫 How to reach me: 
     - Email: priyankagolchha1996@gmail.com
-    - Linkedin - https:linkedin.con/in/gappi
+    - Linkedin - https:linkedin.com/in/gappi
 - ⚡ Fun fact: I am a foodie. 
 
 <!--
